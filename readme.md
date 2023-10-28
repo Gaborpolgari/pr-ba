@@ -6,3 +6,4 @@ Szép szombat
 #PROJ-7 Termék hozzáadás nincs termék
 #PROJ-6 Login nincs
 #PROJ-5 Szöveg rendben
+#PROJ-8 Regisztráció
